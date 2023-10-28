@@ -62,6 +62,6 @@ We welcome contributions from the community. If you'd like to contribute to Job-
 
 
 Contact
-If you have any questions or feedback, feel free to contact us at vikasbihari6@email.com.
+If you have any questions or feedback, feel free to contact us at vikasbihari6@gmail.com.
 
 Thank you for checking out Job-Hub! We hope this web application helps make the placement process smoother and more efficient. We appreciate your interest and support. Happy job hunting!
